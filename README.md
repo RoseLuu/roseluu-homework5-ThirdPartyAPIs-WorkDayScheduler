@@ -1,3 +1,6 @@
+
+## Deployed at: https://roseluu.github.io/roseluu-homework5-ThirdPartyAPIs-WorkDayScheduler/
+
 # roseluu-homework5-ThirdPartyAPIs-WorkDayScheduler
 ## A simple work day scheduler buit by HTML, CSS and JavaScript.
 1. Timeblock will change the color following past, present and future
